@@ -1,6 +1,6 @@
 local lib = {}
 
-local Script_Title = "LázaroJJJ<font color=\"rgb(255, 0, 0)\">|</font> Version"
+local Script_Title = "TestHUB<font color=\"rgb(255, 0, 0)\">|</font> Version"
 
 
 -- Instances:
